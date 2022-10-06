@@ -17,7 +17,7 @@ About me
   <a href="https://github.com/Sanvit-Katrekar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://universal-moon-43540.postman.co">
+  <a href="https://www.postman.com/mission-astronaut-47623289">
     <img src="https://api.badgr.io/public/issuers/BC0x4AQaQPC7lFilsBP_tQ/image" alt="Postman Badge" height=30/>
   </a>
 </div>
