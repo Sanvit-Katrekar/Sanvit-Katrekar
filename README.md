@@ -2,8 +2,8 @@ About me
 ---
 - 👋 Hi, I’m Sanvit Katrekar
 - 👀 I’m interested in Web Development, App Development, Machine Learning and Cyber Security
-- 🌱 I’m currently exploring App Development with TypeScript, Java and Kotlin
 - 💞️ I’m looking to collaborate on Hackathons, Coding competition, CTF events and any Open-source projects!
+- 🌱 And, I'm currently on the grind
 - 📫 How to reach me:
 <div id="badges">
   <a href="https://www.facebook.com/sanvit.katrekar">
@@ -14,8 +14,11 @@ About me
   <a href="https://discord.com/users/754305412819451964">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/sanvit-katrekar-1089452b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.postman.com/mission-astronaut-47623289">
-    <img src="https://api.badgr.io/public/issuers/BC0x4AQaQPC7lFilsBP_tQ/image" alt="Postman Badge" height=30/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge" height=30/>
   </a>
   <a href="https://github.com/Sanvit-Katrekar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
